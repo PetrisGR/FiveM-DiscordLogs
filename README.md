@@ -1,7 +1,5 @@
 # 📝 Discord Logs for [FiveM](https://fivem.net/) [![GitHub stars](https://img.shields.io/github/stars/PetrisGR/FiveM-DiscordLogs.svg)](https://github.com/PetrisGR/FiveM-DiscordLogs/stargazers) [![GitHub license](https://img.shields.io/github/license/PetrisGR/FiveM-DiscordLogs.svg)](https://github.com/PetrisGR/FiveM-DiscordLogs/blob/master/LICENSE)
 
----
-
 ## Description
 
 Introducing "FiveM-DiscordLogs", your ultimate tool for effortless event logging on FiveM servers. With seamless integration with Discord, this script makes logging detailed events a breeze. From player interactions to script events, capture it all with ease and precision.

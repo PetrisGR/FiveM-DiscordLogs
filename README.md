@@ -18,16 +18,16 @@ Introducing "FiveM-DiscordLogs", your ultimate tool for effortless event logging
 - Player Aim Logs (Player Info, Weapon, Distance, Screenshot)
 - Explosion (Full Detailed, Screenshot)
 
-
 ## Usage
 
-1. Make sure you have the latest [OX Library](https://github.com/overextended/ox_lib/releases/latest/download/ox_lib.zip) installed in your server resources.
-2. Download the [latest version](https://github.com/PetrisGR/FiveM-DiscordLogs/releases/latest/download/petris-discordlogs.zip).
-3. Drag & Drop the zip file into your `resources` folder.
-4. Un-zip the folder of the script.
-5. Start the script via your server.cfg by typing `ensure petris-discordlogs` in a new code line.  
-6. Use the server-side log function via exports. (Scroll down to see how)
-7. Enjoy having logs connected with your Discord server.
+1. Make sure you have the latest [screenshot-basic](https://github.com/citizenfx/screenshot-basic) installed in your server resources.
+2. Make sure you have the latest [OX Library](https://github.com/overextended/ox_lib/releases/latest/download/ox_lib.zip) installed in your server resources.
+3. Download the [latest version](https://github.com/PetrisGR/FiveM-DiscordLogs/releases/latest/download/petris-discordlogs.zip).
+4. Drag & Drop the zip file into your `resources` folder.
+5. Un-zip the folder of the script.
+6. Start the script via your server.cfg by typing `ensure petris-discordlogs` in a new code line.  
+7. Use the server-side log function via exports. (Scroll down to see how)
+9. Enjoy having logs connected with your Discord server.
 
 ## Export Function
 

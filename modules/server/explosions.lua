@@ -19,5 +19,6 @@ AddEventHandler("explosionEvent", function(source, explosion)
             { name = "Silent", value = not explosion.isAudible and "Yes" or "No"},
             { name = "Invisible", value = explosion.isInvisible and "Yes" or "No" },
         },
+        takeScreenshot = true
     })
 end)

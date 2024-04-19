@@ -27,7 +27,7 @@ Introducing "FiveM-DiscordLogs", your ultimate tool for effortless event logging
 5. Un-zip the folder of the script.
 6. Start the script via your server.cfg by typing `ensure petris-discordlogs` in a new code line.  
 7. Use the server-side log function via exports. (Scroll down to see how)
-9. Enjoy having logs connected with your Discord server.
+8. Enjoy having logs connected with your Discord server.
 
 ## Export Function
 

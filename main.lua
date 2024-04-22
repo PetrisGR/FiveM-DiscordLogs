@@ -112,13 +112,13 @@ local function CreateLog(resource, data)
 
     -- Category has no webhook defined, print error
     if not Config["Webhooks"][data.category] then
-        DebugPrint("Category webhook doesn't exist. Resource: " .. resource or GetCurrentResourceName())
+        DebugPrint("Category webhook doesn't exist. Category: " .. data.category)
         return
     end
 
     -- Title is missing, print error
     if not data.title then
-        DebugPrint("Title is missing. Resource: " .. resource or GetCurrentResourceName())
+        DebugPrint("Title is missing. Category: " .. data.category)
         return
     end
 

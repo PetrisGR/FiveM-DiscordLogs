@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Petris <https://github.com/PetrisGR>'
 description 'Discord Logs'
-version '1.0.0'
+version '1.0.1'
 
 lua54 'yes'
 
